@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-social_network/static/css/main.c39bedd5.chunk.css",
+    "main.js": "/react-social_network/static/js/main.c81ce51f.chunk.js",
+    "main.js.map": "/react-social_network/static/js/main.c81ce51f.chunk.js.map",
+    "runtime~main.js": "/react-social_network/static/js/runtime~main.8a741db0.js",
+    "runtime~main.js.map": "/react-social_network/static/js/runtime~main.8a741db0.js.map",
+    "static/js/2.a472d6c4.chunk.js": "/react-social_network/static/js/2.a472d6c4.chunk.js",
+    "static/js/2.a472d6c4.chunk.js.map": "/react-social_network/static/js/2.a472d6c4.chunk.js.map",
+    "static/js/3.034be227.chunk.js": "/react-social_network/static/js/3.034be227.chunk.js",
+    "static/js/3.034be227.chunk.js.map": "/react-social_network/static/js/3.034be227.chunk.js.map",
+    "index.html": "/react-social_network/index.html",
+    "precache-manifest.18aab77522f6f7ab0da7679c57e8c6ff.js": "/react-social_network/precache-manifest.18aab77522f6f7ab0da7679c57e8c6ff.js",
+    "service-worker.js": "/react-social_network/service-worker.js",
+    "static/css/main.c39bedd5.chunk.css.map": "/react-social_network/static/css/main.c39bedd5.chunk.css.map",
+    "static/media/1688019358_sneg-top-p-standartnaya-avatarka-instagram-46.jpg": "/react-social_network/static/media/1688019358_sneg-top-p-standartnaya-avatarka-instagram-46.c138513e.jpg",
+    "static/media/REact-Redux.png": "/react-social_network/static/media/REact-Redux.da733e3d.png",
+    "static/media/Spinner-1s-200px.svg": "/react-social_network/static/media/Spinner-1s-200px.eeac28e7.svg",
+    "static/media/mylogo.png": "/react-social_network/static/media/mylogo.043ed851.png"
+  }
+}
